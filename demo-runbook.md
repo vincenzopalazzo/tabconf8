@@ -4,7 +4,7 @@ The stage deck does not pay live. Slide 28 is a screenshot of Sonar's BOLT 12 re
 
 **Talk:** “Bolt12 is the new common interface to Bitcoin payments”
 **Slot:** Tue 13 Oct 2026, 3:45–4:15 PM ET (12:45–1:15 PM PT), Main stage, Georgia Tech Exhibition Hall, Atlanta
-**Demo window:** slides 27 (“Watch.”) and 28 (fallback video), about 4 minutes, starting about 3:59 PM ET. *(Renumbered again in v2.3: a Spark slide was added at 22, so the deck is 40 slides.)*
+**Demo window:** not in the deck. Slides 28 and 29 are screenshots. A live pay, if you attempt one, is a separate phone and is not one of these slides.
 *Drafted 5 Oct 2026. Items marked **[DECIDE]** need Vincenzo's choice. Items marked **[VERIFY]** are not confirmed from a primary source and must be tested on the device.*
 
 ---
@@ -69,7 +69,7 @@ Suggested pairings:
 ---
 
 ## 3. On-stage click path (target 4:00, hard stop 5:00)
-Slide 27 "Watch." is up. Mirror window on the left, terminal on the right (R2) or the receiver phone mirror (R1).
+This is a separate live attempt, not a deck slide. Mirror window on the left, terminal on the right (R2) or the receiver phone mirror (R1).
 
 | Clock | Say | Do (Phone / screen) | Success signal |
 |---|---|---|---|
