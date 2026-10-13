@@ -1,4 +1,7 @@
 # Live demo runbook: TABConf 8 main stage
+
+The stage deck does not pay live. Slide 28 is a screenshot of Sonar's BOLT 12 receive offer. Slide 29 is a screenshot of the Cashu wallet with the old Breez Lightning wallet still listed underneath. Use this runbook only if you decide, on the day, to pay live anyway.
+
 **Talk:** “Bolt12 is the new common interface to Bitcoin payments”
 **Slot:** Tue 13 Oct 2026, 3:45–4:15 PM ET (12:45–1:15 PM PT), Main stage, Georgia Tech Exhibition Hall, Atlanta
 **Demo window:** slides 27 (“Watch.”) and 28 (fallback video), about 4 minutes, starting about 3:59 PM ET. *(Renumbered again in v2.3: a Spark slide was added at 22, so the deck is 40 slides.)*
